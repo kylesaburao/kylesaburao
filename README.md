@@ -1,4 +1,12 @@
-### Hi there 👋
+## About
+
+### Work
+
+SAP Canada (09/21 - 04/22)
+
+NETINT Technologies Inc. (01/20 - 08/20)
+
+
 
 <!--
 **kylesaburao/kylesaburao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
