@@ -2,6 +2,10 @@
 
 Hi! Salut! 안녕하세요!
 
+Some areas I like to work on/read about:
+- Full-stack web systems
+- Robotics & vehicle control
+
 ### Education
 
 **Simon Fraser University** (09/17 - 08/23)  
