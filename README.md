@@ -1,6 +1,6 @@
 ### About
 
-Hi! Salut! 안녕하십니까?
+Hi!
 
 Some technical topics I'm interested in:
 - Full-stack web systems
