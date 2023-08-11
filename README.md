@@ -1,6 +1,6 @@
 ### About
 
-Hi! Salut! 안녕하세요!
+Hi! Salut! 안녕하십니까!
 
 Some areas I like to work on/read about:
 - Full-stack web systems
