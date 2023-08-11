@@ -1,9 +1,10 @@
 ### About
 
-Hi! Salut! 안녕하십니까!
+Hi! Salut! 안녕하십니까?
 
-Some areas I like to work on/read about:
+Some technical topics I'm interested in:
 - Full-stack web systems
+- Starship Program
 - Robotics & vehicle control
 
 ### Education
