@@ -1,7 +1,7 @@
 ### About
 
 Hi  
-![My website](https://kylesaburao.me)
+[My website](https://kylesaburao.me)
 
 Some technical topics I'm interested in:
 - Full-stack web systems
