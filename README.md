@@ -11,7 +11,7 @@ Some technical topics I'm interested in:
 ### Education
 
 **Simon Fraser University** (09/17 - 08/23)  
-B.Sc. Software Systems
+B.Sc. Software Systems, with Distinction
 
 ### Work
 
